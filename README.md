@@ -12,6 +12,7 @@ The purpose is to show simple exemple
 This is a simple deployment to any web server
 
 ## How to contribute
+Please fork this repository
 
 ###Copyright
 Git notice

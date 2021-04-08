@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Próba team  proba@team.hu
 
 # THANKS
 

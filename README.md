@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is a simple web projekt for git and github
+Adding a line to rebashing
 
 ## Introduction 
 This is a paragfar to show diferecne

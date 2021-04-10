@@ -16,4 +16,4 @@ This is a simple deployment to any web server
 Please fork this repository
 
 ###Copyright
-Git notice
+Git notice. All rights reserved.
